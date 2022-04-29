@@ -66,7 +66,7 @@ To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
 
-The only two requirements are to have Python 3 installed and a single library -> `pytest` for running the automated unit tests;
+The two requirements are to have a stable Python 3 installed and a single library -> `pytest` for running the automated unit tests;
 
 ### Installation
 
@@ -84,6 +84,8 @@ The only two requirements are to have Python 3 installed and a single library ->
 ## Usage
 
 Go to `main.py` and you can change the input values and experiment with the code;
+
+Run test by typing `pytest tests.py` in the project root directory via a terminal window;
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
